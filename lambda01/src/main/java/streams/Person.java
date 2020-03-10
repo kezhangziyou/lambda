@@ -1,4 +1,4 @@
-package LambdaAndStreams;
+package streams;
 
 /**
  * @author zhangke
